@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 I'm Patrick, a software developer based in Poland.
 
