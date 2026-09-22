@@ -5,7 +5,8 @@ I'm Patrick, a software developer based in Poland.<br>
 I build whatever I can imagine.<br>
 I create tools that align with my interests.<br>
 
-My main tech stack is react, typescript, tailwind, and supabase. For design and visual work, I use tools like figma, miro, and procreate on my iPad.<br>
+My main tech stack is react, typescript, tailwind, and supabase.<br>
+For design and visual work, I use tools like figma, miro, and procreate on my iPad.<br>
 
 I'm also interested in game dev. <br>
 My favorite engine to use is godot.<br>
