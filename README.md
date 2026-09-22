@@ -1,11 +1,11 @@
 <h3>Hi there! <img src="https://camo.githubusercontent.com/9fcde363f6e46385fd7bc47ef8edd937acaa2c872216105ab0475369f1c1a005/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e676966" width="30"></h3>
 
-I'm Patrick, a software developer based in Poland.
+I'm Patrick, a software developer based in Poland.<br>
 
-I build whatever I can imagine.
-I create tools that align with my interests.
+I build whatever I can imagine.<br>
+I create tools that align with my interests.<br>
 
-My main tech stack is react, typescript, tailwind, and supabase. For design and visual work, I use tools like figma, miro, and procreate on my iPad.
+My main tech stack is react, typescript, tailwind, and supabase. For design and visual work, I use tools like figma, miro, and procreate on my iPad.<br>
 
 I'm also interested in game dev. <br>
 My favorite engine to use is godot.<br>
@@ -15,5 +15,5 @@ Feel free to reach out via <a
             href="https://www.linkedin.com/in/patryk-kotula-a0b32b309/"
           >
             LinkedIn
-          </a>.
+          </a>.<br>
 I should reply within 24 hours.
