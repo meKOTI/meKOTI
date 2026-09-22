@@ -13,7 +13,7 @@ My favorite engine to use is godot.<br>
 I have a few small projects made for school and game jams.<br>
 
 Feel free to reach out via <a
-            href="https://www.linkedin.com/in/patryk-kotula-a0b32b309/"
+            href="https://www.linkedin.com/in/patryk-kotula/"
           >
             LinkedIn
           </a>.<br>
