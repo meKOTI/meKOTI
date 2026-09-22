@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**meKOTI/meKOTI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Patrick, a software developer based in Poland.
 
-Here are some ideas to get you started:
+I build whatever I can imagine.
+I create tools that align with my interests.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack is react, typescript, tailwind, and supabase. For design and visual work, I use tools like figma, miro, and procreate on my iPad.
+
+I'm also interested in game dev.
+My favorite engine to use is godot.
+I have a few small projects made for school and game jams.
+
+Feel free to reach out via LinkedIn.
+I should reply within 24 hours.
