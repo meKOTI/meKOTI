@@ -7,9 +7,13 @@ I create tools that align with my interests.
 
 My main tech stack is react, typescript, tailwind, and supabase. For design and visual work, I use tools like figma, miro, and procreate on my iPad.
 
-I'm also interested in game dev.
-My favorite engine to use is godot.
-I have a few small projects made for school and game jams.
+I'm also interested in game dev. <br>
+My favorite engine to use is godot.<br>
+I have a few small projects made for school and game jams.<br>
 
-Feel free to reach out via LinkedIn.
+Feel free to reach out via <a
+            href="https://www.linkedin.com/in/patryk-kotula-a0b32b309/"
+          >
+            LinkedIn
+          </a>.
 I should reply within 24 hours.
